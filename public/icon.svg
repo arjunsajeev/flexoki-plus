@@ -1,0 +1,15 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#FFFCF0" />
+  <path d="M 40 80 Q 80 60, 120 80 T 200 80 L 200 120 Q 160 140, 120 120 T 40 120 Z" fill="#AF3029" opacity="0.85" />
+  <path d="M 180 60 Q 220 80, 220 120 T 200 180 L 160 170 Q 160 130, 160 120 T 170 70 Z" fill="#BC5215" opacity="0.75" />
+  <path d="M 50 140 Q 90 120, 130 140 Q 150 155, 140 180 Q 120 200, 90 190 Q 60 175, 50 140 Z" fill="#AD8301" opacity="0.8" />
+  <path d="M 150 190 Q 180 170, 210 190 L 220 210 Q 190 230, 160 210 Z" fill="#66800B" opacity="0.7" />
+  <path d="M 30 170 Q 50 180, 70 170 L 120 200 Q 100 220, 80 210 L 30 180 Z" fill="#24837B" opacity="0.75" />
+  <path d="M 60 50 Q 100 30, 140 50 L 150 80 Q 110 100, 70 80 Z" fill="#205EA6" opacity="0.7" />
+  <path d="M 170 130 Q 200 140, 210 170 L 190 180 Q 170 160, 160 140 Z" fill="#5E409D" opacity="0.8" />
+  <path d="M 140 100 Q 160 90, 170 110 Q 160 120, 140 110 Z" fill="#A02F6F" opacity="0.75" />
+  <circle cx="85" cy="95" r="3" fill="#100F0F" opacity="0.6" />
+  <circle cx="175" cy="155" r="3" fill="#100F0F" opacity="0.6" />
+  <circle cx="105" cy="175" r="2.5" fill="#100F0F" opacity="0.6" />
+  <circle cx="155" cy="65" r="2.5" fill="#100F0F" opacity="0.6" />
+</svg>
