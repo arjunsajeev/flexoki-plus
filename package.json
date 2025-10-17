@@ -3,7 +3,7 @@
   "displayName": "Flexoki Plus",
   "description": "Enhanced Flexoki theme for VS Code",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "arjunsajeev",
   "icon": "public/icon.png",
   "engines": {

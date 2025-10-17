@@ -5,14 +5,13 @@
     "editor.background": "#100F0F",
     "editor.foreground": "#CECDC3",
     "editor.hoverHighlightBackground": "#343331",
-    "editor.lineHighlightBackground": "#1C1B1A",
     "editor.selectionBackground": "#CECDC333",
     "editor.selectionHighlightBackground": "#CECDC333",
     "editor.findMatchBackground": "#AD8301",
     "editor.findMatchHighlightBackground": "#AD8301cc",
     "editor.findRangeHighlightBackground": "#1C1B1A",
     "editor.inactiveSelectionBackground": "#282726",
-    "editor.lineHighlightBorder": "#282726",
+    "editor.lineHighlightBorder": "none",
     "editor.rangeHighlightBackground": "#403E3C",
     "notifications.background": "#282726",
     "editorInlayHint.typeBackground": "#343331",
@@ -214,8 +213,7 @@
         "meta.function-call.generic"
       ],
       "settings": {
-        "foreground": "#DA702C",
-        "fontStyle": "bold"
+        "foreground": "#DA702C"
       }
     },
     {
