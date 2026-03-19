@@ -24,7 +24,7 @@
       },
       {
         "label": "Flexoki Plus Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Flexoki-Plus-dark-color-theme.json"
       }
     ]
